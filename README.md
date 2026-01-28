@@ -1,4 +1,4 @@
-#Lead Smith Application
+# Lead Smith Application
 Sales teams and founders waste hours manually searching, validating, and organizing potential leads across inconsistent data sources. This project reduces that manual effort by automating lead discovery, normalization, and confidence scoring in one system.
 [Dashboard Demo](https://youtu.be/Owig5uqVL5U)
 # Working-of-my-portfolio-projects
